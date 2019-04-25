@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<coreProperties xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.openxmlformats.org/package/2006/metadata/core-properties">
+  <dc:creator>Ryan Williams,  and other contributors.</dc:creator>
+  <dc:description>Obfuscar is a basic obfuscator for .NET assemblies. It uses massive overloading to rename metadata in .NET assemblies (including the names of methods, properties, events, fields, types and namespaces) to a minimal set, distinguishable in most cases only by signature.</dc:description>
+  <dc:identifier>Obfuscar</dc:identifier>
+  <version>2.2.11</version>
+  <keywords>obfuscation,obfuscator,open source</keywords>
+  <lastModifiedBy>NuGet, Version=4.4.1.4, Culture=neutral, PublicKeyToken=31bf3856ad364e35;Microsoft Windows NT 6.2.9200.0;.NET Framework 4.5</lastModifiedBy>
+</coreProperties>

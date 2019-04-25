@@ -1,0 +1,6 @@
+<?xml version='1.0'?>
+<Obfuscator>
+  <Var name="InPath" value=".\input" />
+  <Var name="OutPath" value=".\output" />
+  <Module file="$(InPath)\GM Alert.exe" />
+</Obfuscator>

@@ -1,0 +1,47 @@
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe.config
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\KuhiBot.pdb
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\MySql.Data.dll
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\bin\Debug\MySql.Data.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbprojAssemblyReference.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Login.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.NativeMethods.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Resources.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.GenerateResource.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CoreCompileInputs.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CopyComplete
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v21\KuhiBot\KuhiBot\obj\Debug\KuhiBot.pdb
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe.config
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\KuhiBot.pdb
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\MySql.Data.dll
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\bin\Debug\MySql.Data.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbprojAssemblyReference.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Login.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.NativeMethods.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Resources.resources
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.GenerateResource.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CoreCompileInputs.cache
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CopyComplete
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\trabajo\KuhiBot v22\KuhiBot\KuhiBot\obj\Debug\KuhiBot.pdb
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe.config
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\bin\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\bin\Debug\KuhiBot.pdb
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\bin\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\bin\Debug\MySql.Data.xml
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbprojAssemblyReference.cache
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Login.resources
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.NativeMethods.resources
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.Resources.resources
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.GenerateResource.cache
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CoreCompileInputs.cache
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.vbproj.CopyComplete
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.exe
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.xml
+C:\Users\adri\Desktop\KuhiBot\KuhiBot\obj\Debug\KuhiBot.pdb
